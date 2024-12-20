@@ -1,0 +1,6 @@
+master: SkyStriker
+implant: FIRESPIRIT
+ops: NightFall
+
+master, implant, ops:
+language: nim
